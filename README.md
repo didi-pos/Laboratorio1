@@ -84,7 +84,7 @@
 <hr>
 
 <div align="center">
-  <img width="300" alt="image" src=<"https://github.com/user-attachments/assets/b89eec54-eb51-4193-9a65-0060500f8493"/>
+  <img src="./imagenes/imagen1.png" width="300">
   <br>
   <p>
     
