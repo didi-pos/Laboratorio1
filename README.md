@@ -68,6 +68,63 @@
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/ea94b1bc-378f-4378-b199-ca28c8df9156"/>
   <br>
   <p>
-    Seguimos un proceso similar, el cual descargamos en la pagina de Ventoy
+    Seguimos un proceso similar, el cual descargamos en la pagina de Ventoy, el software de Vnetoy, luego de abrirla se coloca la USB en el puerto del pc y uno configura
+    la compatibilidad de archivos y el sistema de partición, después se instala el Ventoy en la USB, la USB queda booteable y le cambia el nombre de la USB a Ventoy,
+    ya cuando esta configurada la USB, ingresamos los archivos .iso, o sea la imagen de windows 11 y la imagen de Ubuntu y ya queda para arrancar la USB y poder
+    instalar Ubuntu.
+  </p>
+</div>
+
+<hr>
+<div align="center">
+<p>
+  <em>Tercer punto</em>
+</p>
+</div>
+<hr>
+
+<div align="center">
+  <img width="300" alt="image" src=<"https://github.com/user-attachments/assets/b89eec54-eb51-4193-9a65-0060500f8493"/>
+  <br>
+  <p>
+    
+  </p>
+  <br>
+  <img width="400" alt="image" src=<"https://github.com/user-attachments/assets/4aa7ba51-58ca-408c-8094-b28dd3914b89"/>
+  <br>
+  <p>
+    
+  </p>
+  <img width="300" alt="image" src=<"https://github.com/user-attachments/assets/374ccd53-85f9-4782-9d4d-c80b930065ea"/>
+  <br>
+  <p>
+    
+  </p>
+  <br>
+  <img width="400" alt="image" src=<"https://github.com/user-attachments/assets/ccfac59a-1045-4e65-aef4-e20ab59e5761"/>
+  <p>
+    
+  </p>
+  <img width="300" alt="image" src=<"https://github.com/user-attachments/assets/9af28e65-a58c-4f68-b74c-02c5c8e66558"/>
+  <br>
+  <p>
+    
+  </p>
+  <br>
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/ea94b1bc-378f-4378-b199-ca28c8df9156"/>
+  <br>
+  <p>
+    
+  </p>
+  <img width="300" alt="image" src=<"https://github.com/user-attachments/assets/9af28e65-a58c-4f68-b74c-02c5c8e66558"/>
+  <br>
+  <p>
+    
+  </p>
+  <br>
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/ea94b1bc-378f-4378-b199-ca28c8df9156"/>
+  <br>
+  <p>
+    
   </p>
 </div>
