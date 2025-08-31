@@ -103,7 +103,8 @@
   <br>
 
   <p>
-    
+    Primero se hace la repartición del disco, yo le coloque 70GB a la partición donde instale Ubuntu y uno escoge la compatibilidad de archivos,
+    NTFS es el más común.
   </p>
 
   <br>
@@ -111,7 +112,7 @@
   <br>
   
   <p>
-    
+    Luego se hace todo el proceso que explique de instalar Ventoy en la memoria USB y pasar las imagenes (.iso) a la memoria para ponerla bootear con ella.
   </p>
   
   <br>
@@ -119,38 +120,76 @@
   <br>
   
   <p>
-    
+    Después se reinicia el computador e ingresa uno a la BIOS con la tecla asignada para entrar, ahí uno selecciona la unidad de memoria de arranque
+    para iniciar el computador.
   </p>
 
   <br>
-  <img width="400" src="https://github.com/user-attachments/assets/4696a416-97bf-44c2-b539-9756ae29ff72"/>
+  <img width="400" src="https://github.com/user-attachments/assets/b6ad4484-1382-4790-9325-069690d6a912"/>
   <br>
   
   <p>
-    
+    Siguiente a eso aparece la interfaz de Ventoy en el cual uno puede seleccionar las imagenes (.iso) que uno copio en la memoria, cuando uno selecciono
+    una, uno puede elegir como quiere arrancar, uno por lo general elige el boot normal.
   </p>
 
   <br>
-  <img width="400" src="https://github.com/user-attachments/assets/4696a416-97bf-44c2-b539-9756ae29ff72"/>
+  <img width="400" src="https://github.com/user-attachments/assets/04979e30-13e1-491f-af08-dd748c91524b"/>
   <br>
   
   <p>
-    
+    Luego aparece como tal la interfaz de Ubuntu y los pasos que uno debe seguir para instalarlo como uno quiere.
   </p>
 
   <br>
-  <img width="400" src="https://github.com/user-attachments/assets/4696a416-97bf-44c2-b539-9756ae29ff72"/>
+  <img width="400" src="https://github.com/user-attachments/assets/cffd85ba-5327-4129-9e7a-aa803c999b00"/>
   <br>
   
   <p>
-    
+    Ubuntu te da la opción de instalar o probar su sistema operativo, pero uno que quiere instalarlo elige la primera opción.
   </p>
 
   <br>
-  <img width="400" src="https://github.com/user-attachments/assets/4696a416-97bf-44c2-b539-9756ae29ff72"/>
+  <img width="400" src="https://github.com/user-attachments/assets/e8d065b4-6b5e-4358-9c4f-52d716e1b794"/>
   <br>
   
   <p>
-    
+    Este paso es muy importante, ya que aqui uno elige en que unidad de memoria o en que partición uno quiere instalar Ubuntu, Ubuntu te da la facilidad
+    de escoger si quieres instalar Ubuntu junto a Windows, el cual es la opción que queremos esoger, pero también se puede formatear el disco de la computadora
+    o una forma de escoger personalizada.
+  </p>
+
+  <br>
+  <img width="400" src="https://github.com/user-attachments/assets/0fdad69c-9c83-45bc-93b3-88f68799d8e7"/>
+
+  <br>
+  
+  <p>
+    Aquí uno elige la partición en la que uno quiere Ubuntu y cuantas GB uno quiere darle a esa unidad.
+  </p>
+
+  <br>
+  <img width="400" src="https://github.com/user-attachments/assets/78021305-84ba-490e-af0d-a6a51cdf8cb2"/>
+
+  <br>
+  
+  <p>
+    Después de crear una cuenta para Ubuntu y de seleccionar la región, se demora un poco mientras se instala y te da la opción de reiniciar la pc para aplicar los cambios.
+  </p>
+
+  <br>
+  <img width="400" src="https://github.com/user-attachments/assets/b80a4544-ba4c-4833-a62a-7dbf7ec15dc7"/>
+  <br>
+  
+  <p>
+    Luego de que se reiniciara y uno quitara la unidad USB donde arranco el Ubuntu, aparece que ya fue instalado el Ubuntu.
+  </p>
+
+   <br>
+  <img width="400" src="https://github.com/user-attachments/assets/78cb62af-1aae-45b3-9ae4-7bec9d8c7174"/>
+  <br>
+  
+  <p>
+    Finalmente cada vez que uno inicie la computadora, van aparecer todas estas opciones donde las importantes son dos, una para iniciar Ubuntu y otra para iniciar Windows.
   </p>
 </div>
