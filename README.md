@@ -7,7 +7,9 @@
   <em>Primer punto</em>
 </p>
 </div>
+
 <hr>
+
 <ol>
   <li>Las dos son software booteables, pero Rufus solo sirve para colocar una imagen (.iso), y Ventoy funciona para colocar tantas imagenes quepan en la USB.
     <br>
@@ -22,19 +24,25 @@
       se instala Ventoy en la USB y simplemente se copia y pega en la USB las imagenes para que queden guardadas en la USB que se debe llamar "Ventoy".</li><br>
     </ul>
   </li>
+  
   <br>
+  
   <li>El bootloader es el software que se inica al inicio, osea el software de arranque para cargar el sistema operativo (SO), es el que controla el hardware pa que
   se inicie el software en un inico, desde un dispositivo booteable, osea de arranque. El GRUB (GRand Unified Bootloader), como lo dice en el nombre, es un gestor de
   arranque multiple el cual se encarga de arrancar varios sistemas operativos, significa que es una parte importante de los sitemas operativos para hacer su inicialización
   y uno puede elegir que sistema operativo quiere que se cargue.</li>
+  
   <br>
+  
   <li>Practicamente es la compatibilidad de los archivos con los sistemas operativos, osea que hay tipos de archivos que son compatibles con Windows y otro tipo de archivos
   compatibles con Linux, porque cada sistema operativo tinene una forma de leer los archivos, por eso las descargas de apkicaciones hay diferentes links de instalación por
   sistema operativo. Los sistemas de archivos son: FAT32, exFAT, NTFS, HFS+, APFS, EXT4.</li>
   <br>
   <li>Es el sistema para dividir el disco duro, formas de partir el disco, en secciones logicas independientes, donde el sistema operativo trata como si fueren unidades de
   almacenamiento separadas. Los sistemas de particiones que hay son:
+    
   <br>
+    
   <ul>
       <li><b>Partición Primaria:</b> Es la partición principal del disco duro, se puede arrancar el sistema operativo desde esta, ya que contiene los archivos de arranque. 
       Un disco puede tener hasta 4 particiones primarias o 3 primarias y 1 extendida.</li><br>
@@ -47,16 +55,19 @@
 </ol>
 
 <hr>
+
 <div align="center">
 <p>
   <em>Segundo punto</em>
 </p>
 </div>
+
 <hr>
 
 <div align="center">
   <img width="300" alt="image" src="https://github.com/user-attachments/assets/25c87f1d-fc52-4639-b48d-2b1ae308cfc2"/>
   <br>
+  
   <p>
     Durante el proceso, descargamos desde la página oficial la versión de Ubuntu compatible con Windows. Luego, buscamos la aplicación Rufus en internet, la instalamos en
     el computador e insertamos la memoria USB. Tras formatearla, utilizamos Rufus para crear la memoria booteable con la imagen de Ubuntu. A continuación, reiniciamos el
@@ -64,9 +75,11 @@
     la unidad booteada y comenzó la instalación de Ubuntu. Finalmente, seguimos los pasos de instalación hasta concluir el proceso. Tras unos minutos, se habilitó la
     opción para crear el usuario del nuevo sistema operativo, completando satisfactoriamente la instalación.
   </p>
+  
   <br>
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/ea94b1bc-378f-4378-b199-ca28c8df9156"/>
   <br>
+  
   <p>
     Seguimos un proceso similar, el cual descargamos en la pagina de Ventoy, el software de Vnetoy, luego de abrirla se coloca la USB en el puerto del pc y uno configura
     la compatibilidad de archivos y el sistema de partición, después se instala el Ventoy en la USB, la USB queda booteable y le cambia el nombre de la USB a Ventoy,
@@ -76,10 +89,68 @@
 </div>
 
 <hr>
+
 <div align="center">
 <p>
   <em>Tercer punto</em>
 </p>
 </div>
+
 <hr>
 
+<div align="center">
+  <img width="400" src="https://github.com/user-attachments/assets/4696a416-97bf-44c2-b539-9756ae29ff72"/>
+  <br>
+
+  <p>
+    
+  </p>
+
+  <br>
+  <img width="400" src="https://github.com/user-attachments/assets/4de0a4dd-a83e-4e63-90a0-b5ca4de7290f"/>
+  <br>
+  
+  <p>
+    
+  </p>
+  
+  <br>
+  <img width="400" src="https://github.com/user-attachments/assets/4696a416-97bf-44c2-b539-9756ae29ff72"/>
+  <br>
+  
+  <p>
+    
+  </p>
+
+  <br>
+  <img width="400" src="https://github.com/user-attachments/assets/4696a416-97bf-44c2-b539-9756ae29ff72"/>
+  <br>
+  
+  <p>
+    
+  </p>
+
+  <br>
+  <img width="400" src="https://github.com/user-attachments/assets/4696a416-97bf-44c2-b539-9756ae29ff72"/>
+  <br>
+  
+  <p>
+    
+  </p>
+
+  <br>
+  <img width="400" src="https://github.com/user-attachments/assets/4696a416-97bf-44c2-b539-9756ae29ff72"/>
+  <br>
+  
+  <p>
+    
+  </p>
+
+  <br>
+  <img width="400" src="https://github.com/user-attachments/assets/4696a416-97bf-44c2-b539-9756ae29ff72"/>
+  <br>
+  
+  <p>
+    
+  </p>
+</div>
